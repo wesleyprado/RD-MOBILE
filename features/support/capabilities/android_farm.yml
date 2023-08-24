@@ -6,7 +6,6 @@ browserstack.debug: true
 browserstack.local: true
 browserstack.sendKeys: true
 fullReset: true
-networkProfile: 4g-lte-good
 consoleLogs: "verbose"
 networkLogs: "true"
 automationName: "UiAutomator2"
