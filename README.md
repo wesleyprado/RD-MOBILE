@@ -1,10 +1,7 @@
 # RD-MOBILE
-
-# RD-WEB
-
 ## Env Config
 
-## Pré requesites:
+## Pré requesitos:
 
 ## Android Studio
 
@@ -66,7 +63,7 @@
 Basta abrir o aplicativo
 
 	
-## Download the project or clone it and after in the project path run:
+## Faça o clone do projeto ou o download:
 
 ```sh
 gem install bundler
