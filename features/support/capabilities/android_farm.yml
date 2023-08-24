@@ -1,0 +1,17 @@
+name: "teste"
+build: "Android v3.8.10_7"
+device: "Samsung Galaxy Tab S3"
+platformName: "android"
+browserstack.debug: true
+browserstack.local: true
+browserstack.sendKeys: true
+fullReset: true
+networkProfile: 4g-lte-good
+consoleLogs: "verbose"
+networkLogs: "true"
+automationName: "UiAutomator2"
+disableAnimations: "true"
+autoAcceptAlerts: "true"
+realMobile: "true"
+printPageSourceOnFindFailure: "true"
+sessionName: "spec"

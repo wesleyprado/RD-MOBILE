@@ -1,0 +1,22 @@
+
+# testers
+#
+# This list is used to identify your test runs in BrowserStack.
+# Check your email address (as known to git) with:
+#
+#   git config user.email
+#
+# If not set, set with:
+#
+#   git config --global user.email user@example.com
+#
+
+testers:
+  # email: initials
+  reynhout@quesera.com:      AR
+  andrew@prepaid2cash.com:   AR
+  john@prepaid2cash.com:     JG
+  diegollams@gmail.com:      DL
+  fernando@tangosource.com:  FG # FIXME
+  ec2@example.com:           EC2
+  wesley.andrade.prado@gmail.com: WP

@@ -1,0 +1,9 @@
+project: ""
+browserstack.debug: true
+platformName: "ios"
+automationName: "XCUITest"
+device: "iPhone 8"
+platformVersion: "13.3"
+reduceMotion: true
+autoAcceptAlerts: true
+autoDismissAlerts: false

@@ -1,0 +1,12 @@
+default: -p android -p json
+
+
+pretty: --format pretty
+html:  --format html --out=reports/report.html
+json:  --format json --out=reports/report.json
+
+
+ios: PLATFORM=ios_local
+android: PLATFORM=android_local
+ios_farm: PLATFORM=ios_farm
+android_farm: PLATFORM=android_farm

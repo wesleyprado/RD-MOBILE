@@ -1,0 +1,12 @@
+caps:
+  platformName: "ios"
+  platformVersion: "14.3"
+  deviceName: "iPhone 8"
+  automationName: "XCUITest"
+  bundleId: ""
+  autoAcceptAlerts: true
+  autoDismissAlerts: true
+  resetOnSessionStartOnly: true
+  fullReset: true
+  reduceMotion: true
+  newCommandTimeout: 60

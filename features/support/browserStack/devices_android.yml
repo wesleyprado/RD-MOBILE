@@ -1,0 +1,91 @@
+# https://www.browserstack.com/list-of-browsers-and-platforms/app_automate
+
+# Android devices used by > 1% of users (20200701-20210213)
+# LGE LM-Q730                  6.2% .. K71, Stylo 6
+# LGE LM-K500                  3.7% .. K51, Reflect
+# LGE LM-Q720                  3.0% .. Stylo 5, 5+
+# Samsung SM-A102U             2.9% .. Galaxy A10e
+# Motorola moto g stylus       2.2% .. moto g stylus
+# Samsung SM-A205U             2.2% .. Galaxy A20
+# LGE LGL322DL                 1.9% .. K30
+# Samsung SM-A115U             1.9% .. Galaxy A11
+# Samsung SM-A215U             1.8% .. Galaxy A21
+# Samsung SM-S111DL            1.7% .. Galaxy A01
+# Motorola moto e6 (XT2005DL)  1.6% .. moto e6
+# Samsung SM-G975U             1.6% .. Galaxy S10+
+# Samsung SM-G960U             1.6% .. Galaxy S9
+# Samsung SM-S102DL            1.5% .. Galaxy A10e
+# Motorola moto e6             1.4% .. moto e6
+# Samsung SM-G973U             1.3% .. Galaxy S10
+# LGE LM-K300                  1.3% .. K31
+# Samsung SM-N960U             1.2% .. Galaxy Note9
+# Samsung SM-G965U             1.1% .. Galaxy S9+
+# Samsung SM-G950U             1.1% .. Galaxy S8
+# TCL 5032W                    1.1% .. Alcatel V4
+
+devices_android: [
+  ['Samsung Galaxy S20',           '10.0', 'release'],
+  ['Samsung Galaxy S20 Plus',      '10.0', 'release'],
+  ['Samsung Galaxy S20 Ultra',     '10.0', 'release', 'android-p1', 'android-p1b'],
+  ['Samsung Galaxy Note 20 Ultra', '10.0', 'release'],
+  ['Samsung Galaxy Note 20',       '10.0', 'release'],
+  ['Samsung Galaxy A51',           '10.0'],
+  ['Samsung Galaxy A11',           '10.0', 'release', 'android-p1', 'android-p1b'],
+  ['Samsung Galaxy S9 Plus',       '9.0', 'release', 'android-p1', 'android-p1b', ],
+  ['Samsung Galaxy S8 Plus',       '9.0'],
+  ['Samsung Galaxy S10e',          '9.0'],
+  ['Samsung Galaxy S10 Plus',      '9.0', 'release', 'android-p1', 'android-p1b'],
+  ['Samsung Galaxy S10',           '9.0', 'release'],
+  ['Samsung Galaxy Note 10 Plus',  '9.0'],
+  ['Samsung Galaxy Note 10',       '9.0'],
+  ['Samsung Galaxy A10',           '9.0', 'release', 'android-p1', 'android-p1a', 'default'],
+  ['Samsung Galaxy Note 9',        '8.1', 'release'],
+  ['Samsung Galaxy J7 Prime',      '8.1'],
+  ['Samsung Galaxy S9 Plus',       '8.0'],
+  ['Samsung Galaxy S9',            '8.0', 'release', 'android-p1', 'android-p1b'],
+  ['Samsung Galaxy Note 8',        '7.1'],
+  ['Samsung Galaxy A8',            '7.1'],
+  ['Samsung Galaxy S8 Plus',       '7.0'],
+  ['Samsung Galaxy S8',            '7.0', 'release'],
+  ['Samsung Galaxy S7',            '6.0'],
+  ['Samsung Galaxy S6',            '5.0'],
+  ['Samsung Galaxy S5',            '4.4'],
+  ['Samsung Galaxy Note 4',        '4.4'],
+
+  ['Samsung Galaxy Tab S7',        '10.0'],
+  ['Samsung Galaxy Tab S6',        '9.0'],
+  ['Samsung Galaxy Tab S5e',       '9.0'],
+  ['Samsung Galaxy Tab S4',        '8.1'],
+  ['Samsung Galaxy Tab S3',        '7.0'],
+  ['Samsung Galaxy Tab 4',         '4.4'],
+
+  ['Google Pixel 5',               '11.0'],
+  ['Google Pixel 4',               '11.0'],
+  ['Google Pixel 4 XL',            '10.0'],
+  ['Google Pixel 4',               '10.0'],
+  ['Google Pixel 3',               '10.0'],
+  ['Google Pixel 3a XL',           '9.0'],
+  ['Google Pixel 3a',              '9.0'],
+  ['Google Pixel 3 XL',            '9.0'],
+  ['Google Pixel 3',               '9.0'],
+  ['Google Pixel 2',               '9.0'],
+  ['Google Pixel 2',               '8.0'],
+  ['Google Pixel',                 '8.0'],
+  ['Google Pixel',                 '7.1'],
+  ['Google Nexus 6',               '6.0'],
+  ['Google Nexus 6',               '5.0'],
+  ['Google Nexus 5',               '4.4'],
+
+  ['OnePlus 8',                    '10.0'],
+  ['OnePlus 7T',                   '10.0'],
+  ['OnePlus 7',                    '9.0'],
+  ['OnePlus 6T',                   '9.0'],
+
+  ['Xiaomi Redmi Note 8',          '9.0'],
+  ['Xiaomi Redmi Note 7',          '9.0'],
+
+  ['Motorola Moto G7 Play',        '9.0'],
+  ['Motorola Moto X 2nd Gen',      '6.0'],
+
+  ['Y50',                          '10.0'],
+]

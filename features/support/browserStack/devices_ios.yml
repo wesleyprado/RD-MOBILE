@@ -1,0 +1,71 @@
+# https://www.browserstack.com/list-of-browsers-and-platforms/app_automate
+
+# iOS devices used by > 1% of users (20200701-20210213)
+# iPhone 11                  18.4%
+# iPhone XR                  14.7%
+# iPhone 11 Pro Max           9.7%
+# iPhone 7                    6.9%
+# iPhone 8 Plus               6.2%
+# iPhone XS Max               5.5%
+# iPhone X                    4.9%
+# iPhone 8                    4.4%
+# iPhone SE (2nd generation)  4.0%
+# iPhone 7 Plus               4.0%
+# iPhone 11 Pro               3.9%
+# iPhone XS                   3.2%
+# iPhone 6s                   2.9%
+# iPhone 12 Pro Max           2.6%
+# iPhone 12                   2.3%
+# iPhone 6s Plus              1.6%
+# iPhone 12 Pro               1.4%
+
+devices_ios: [
+  ['iPhone XS',          '14', 'release'],
+  ['iPhone 12 Pro Max',  '14', 'release'],
+  ['iPhone 12 Pro',      '14'],
+  ['iPhone 12 Mini',     '14'],
+  ['iPhone 12',          '14', 'release'],
+  ['iPhone 11 Pro Max',  '14', 'release', 'ios-p1', 'ios-p1b'],
+  ['iPhone 11',          '14', 'release', 'ios-p1', 'ios-p1a', 'default'],
+  ['iPhone XS',          '13'],
+  ['iPhone 11 Pro Max',  '13'],
+  ['iPhone 11 Pro',      '13', 'release'],
+  ['iPhone 11',          '13'],
+  ['iPhone XS',          '12'],
+  ['iPhone XS Max',      '12', 'Xrelease'], # 20200214 iOS 12.1 launch failure
+  ['iPhone XR',          '12', 'release', 'ios-p1', 'ios-p1b'],
+  ['iPhone X',           '11'],
+  ['iPhone 8',           '13', 'release'],
+  ['iPhone 8',           '12'],
+  ['iPhone 8',           '11'],
+  ['iPhone 8 Plus',      '12', 'release', 'ios-p1', 'ios-p1b'],
+  ['iPhone 8 Plus',      '11'],
+  ['iPhone 7',           '12', 'release', 'ios-p1', 'ios-p1b'],
+  ['iPhone 7',           '10'],
+  ['iPhone 7 Plus',      '10'],
+  ['iPhone 6S',          '12', 'Xrelease'], # 20200214 iOS 12.1 launch failure
+  ['iPhone 6S',          '11'],
+  ['iPhone 6S Plus',     '11'],
+  ['iPhone 6',           '11'],
+  ['iPhone SE 2020',     '13', 'release'],
+  ['iPhone SE',          '11'],
+
+  ['iPad Air 4',         '14'],
+  ['iPad Pro 12.9 2020', '14'],
+  ['iPad Pro 12.9 2020', '13'],
+  ['iPad 8th',           '14'],
+  ['iPad Pro 12.9 2018', '13'],
+  ['iPad Pro 11 2020',   '13'],
+  ['iPad Mini 2019',     '13'],
+  ['iPad Air 2019',      '13'],
+  ['iPad 7th',           '13'],
+  ['iPad Pro 12.9 2018', '12'],
+  ['iPad Pro 11 2018',   '12'],
+  ['iPad Mini 2019',     '12'],
+  ['iPad Air 2019',      '12'],
+  ['iPad Pro 9.7 2016',  '11'],
+  ['iPad Pro 12.9 2017', '11'],
+  ['iPad Mini 4',        '11'],
+  ['iPad 6th',           '11'],
+  ['iPad 5th',           '11'],
+]

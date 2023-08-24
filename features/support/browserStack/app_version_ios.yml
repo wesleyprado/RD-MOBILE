@@ -1,0 +1,53 @@
+# NOTE images expire from BrowserStack after 30 days
+#
+# tests will default to the last entry in the set
+#
+
+app_images_ios:
+  # version:   app_url
+  v3.8.1:     bs://d2e4299b449a16fe079c58de94863fb51068a6bf
+  v3.8.1_6:   bs://2eb84ef073b8d4ccb8a7c9c7b950166c287bf09f
+  v3.8.1_13:  bs://035a7dae084d20119b4305310b0bd3eb81ba5a1e
+  v3.8.1_14:  bs://615316f567d7549bdb83d5ea11cd6ef25f51c31d
+  v3.8.1_15:  bs://a6e8feda8fe77cbdf9d11f800db50c6ee86582a7
+  v3.8.1_16:  bs://d6b84eafca6e852f86da74206eb0db5acd8c8f26
+  v3.8.2_1:   bs://ceda4635e7d3c7d9c5a2c07be0044029d0600c07
+  v3.8.2_2:   bs://708f113f8473461589f2c6d50f92a009d2486bad
+  v3.8.2_3:   bs://5b7d4c08f6c5998da83aa88a5f894db4df8e25ff
+  v3.8.2_4:   bs://15c44561c7e82b380a54568db75ce845fcf2d961
+  v3.8.3_1:   bs://ca3d7cd44a6b303b298cffcac10ea9108fa33308
+  v3.8.3_1ui: bs://290a6a0dcdb9c0001ea06870e94def7ac8e7e3d4
+  v3.8.3_2:   bs://d7344cd4be4f165d0fd7bd4e43cafed4bd460773
+  v3.8.3_2ui: bs://290a6a0dcdb9c0001ea06870e94def7ac8e7e3d4
+  v3.8.3_3ui: bs://bc6732a010d38a230e95c36cf1470a496b9ae1ce
+  v3.8.3_3:   bs://fa12ab2413d3ba3812ab2115fcddac452187c4d4
+  v3.8.3_4:   bs://352454a9592bd523aa3426e29d9a6cd7ce7f3e10
+  v3.8.3_6ui: bs://a4e049c12edc86cc5188398100c467f972cb3e43
+  v3.8.3_5:   bs://cf616a08db6d8fd160e0dfe6ff21f83a9d41f840
+  v3.8.3_7:   bs://ed083a3cbcd49da41819dff9af3eebf34e7cfbee
+  v3.8.3_8:   bs://4808182bd6ae7ce0da87dc327cd05a52610e725d
+  v3.8.4_1:   bs://7a5cbc942b34eeb7308d40607f0644ec148de1d8
+  v3.8.5_2:   bs://780ebd5a8deb06a18e535b313e1bbc5b4bb91e47
+  v3.8.5_3:   bs://43c3700407baf4951158df29bbe5a62e1f24d7c7
+  v3.8.6_4:   bs://06e41d639c83cab62c3a39081fdbf8c4d8906e5b
+  v3.8.6_5:   bs://8a42d99d506fc77ae23baaa84ed310c40baafac1
+  v3.8.6_6:   bs://1b4f480934dc4f17ef3e2ac53b16cc271a3084cb
+  v3.8.6_7:   bs://7c0565df7d9684d57519e7dc3c4b37a3fdd4a32e
+  v3.8.7_1:   bs://c3e5b252b6650969438511a6d1a15c10c54f7cc2
+  v3.8.7_2:   bs://a0214fdf9882deb6f8f2d65706a5f3a256288119
+  v3.8.7_3:   bs://930c4534e7061f5fc065161b761e7b8ec51f970a
+  v3.8.7_4:   bs://84a7058f1edcca6d788f32618969b533268459c1
+  v3.8.8_1:   bs://0aeb4ab6da7a21eb2cf56dd141823cc58908d448
+  v3.8.9_1:   bs://6601c95c9ff9c63e7fcd77dec522a8e1946ed0f1
+  v3.8.9_2:   bs://b4376ef45ee7c706e636cff799a8d5736f2823ae
+  v3.8.9_3:   bs://43b7fcea96ac792d0f46fe57ab617f1612202e98
+  v3.8.9_5:   bs://f90d4c23d33732e8b0559e5b7b314878372d1ade
+  v3.8.9_6:   bs://26d0964cbdb70e95aeeef6ed5e7c5fa12dba08fc
+  v3.8.9_7:   bs://d289603e5cd672747bbffa84a746fde1ce6ce7a7
+  v3.8.10_1:   bs://f9f18a7662b1d19b81665edf04a54cb1a0bdb38e
+  v3.8.11_2:   bs://f6a000fa33e66c97b838d7cf4d8bc5c44b844823
+  v3.8.11_3:   bs://738a6e9841d33ecb966f969945c66a6587ae1c87
+  v3.8.11_4:   bs://2a88c0e20a2ef73551fc42f557ad0d0e768fb5b5
+  v3.8.11_5:   bs://bc61c94a1cd4ef5edec0fef31dd768a3796af3a2
+  v3.8.11_6:   bs://7353500d667273a45d09231961d58d1e4982be8f
+  v3.8.11_8:   bs://833d5406b6ab0ca8b81269cd37a524836d3540db
